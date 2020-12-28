@@ -4,4 +4,4 @@
 * Data set from EDP
 * Classification problem.
 
-![image](/images/Gen%20RPM.PNG?raw=true)
+![image](/images/Gen%20RPM.png?raw=true)
