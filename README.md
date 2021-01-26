@@ -1,6 +1,6 @@
 # GonMazzini on GitHub
 
-# [Current project: wind turbine SCADA clustering.](https://github.com/GonMazzini/Blade-deflection-calculation)
+# Current project: wind turbine SCADA clustering.
 * Data set from EDP.
 * Unsupervised learning problem. 
 
