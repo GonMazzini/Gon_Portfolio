@@ -1,15 +1,19 @@
 # Portfolio from Gonzalo Mazzini (s202683@student.dtu.dk)
 
 ## Machine Learning projects related to Wind Energy.
+* SCADA data from Wind Turbine Generators (WTG).
+* Data set from EDP.
+
+### Classification: Random Forest and ANN models in order to predict the status of the WTG.
+* inputs for the model: Wind Speed, Power, Generator RPM, Blade Pitch Angle
+* Confusion matrix showing a high accurancy for both models.
 
 ![image](images/clasification.png)
 
 
-### Using the K-mean clustering algorithm and Gaussian Mixture (GM) model to cluster the points in the Power Curve.
-* SCADA data from Wind Turbine Generators.
-* Data set from EDP.
-* Unsupervised learning problem - Clustering
-
+### Clustering: Using the K-mean clustering algorithm and Gaussian Mixture (GM) model to classify the points in the Power Curve.
+* Unsupervised learning problem 
+* K-mean clustering exhibits a more reasonable clutering.
 ![image](images/clustering%20gaussian.png)
 
 
