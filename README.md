@@ -1,8 +1,12 @@
 # GonMazzini on GitHub
 
-# Current project: wind turbine SCADA clustering.
+# Machine Learning projects related to Wind Energy.
+* SCADA data from Wind Turbine Generators.
 * Data set from EDP.
-* Unsupervised learning problem. 
+* Unsupervised learning problem - Clustering
+## Make use of the K-mean clustering algorithm and Gaussian Mixture (GM) model to cluster the points in the Power Curve.
+
+* 
 
 ![image](images/Gen%20RPM.png)
 
