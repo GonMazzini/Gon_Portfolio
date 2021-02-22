@@ -5,14 +5,15 @@
 * Data set from EDP.
 
 ### Classification: Random Forest and ANN models in order to predict the status of the WTG.
-* inputs for the model: Wind Speed, Power, Generator RPM, Blade Pitch Angle
+* inputs for the model: Wind Speed, Power, Generator RPM, Blade Pitch Angle.
+* ANN with 2 hidden layers (12,12), a batch size of 144 and ReLu as activation func.
 * Confusion matrix showing a high accurancy for both models.
 
 ![image](images/clasification.png)
 
 
 ### Clustering: Using the K-mean clustering algorithm and Gaussian Mixture (GM) model to classify the points in the Power Curve.
-* Unsupervised learning problem 
+* Unsupervised learning problem.
 * K-mean clustering exhibits a more reasonable clutering.
 ![image](images/clustering%20gaussian.png)
 
