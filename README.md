@@ -1,4 +1,4 @@
-# GonMazzini on GitHub
+# Portfolio from Gonzalo Mazzini.
 
 # Machine Learning projects related to Wind Energy.
 
@@ -7,7 +7,7 @@
 * Data set from EDP.
 * Unsupervised learning problem - Clustering
 
-
+![image](images/clustering%20gaussian.png)
 ![image](images/Gen%20RPM.png)
 
 
