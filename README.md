@@ -2,7 +2,7 @@
 
 ## Machine Learning projects related to Wind Energy.
 
-![image](images/classification.png)
+![image](images/clasification.png)
 
 
 ### Using the K-mean clustering algorithm and Gaussian Mixture (GM) model to cluster the points in the Power Curve.
