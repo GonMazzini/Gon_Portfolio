@@ -1,10 +1,11 @@
 # Portfolio from Gonzalo Mazzini (s202683@student.dtu.dk)
 
 ## Machine Learning projects related to Wind Energy.
+
+
+### [Classification: Random Forest and ANN models in order to predict the status of the WTG.](https://github.com/GonMazzini/EDP-data)
 * SCADA data from Wind Turbine Generators (WTG).
 * Data set from EDP.
-
-### Classification: Random Forest and ANN models in order to predict the status of the WTG.
 * inputs for the model: Wind Speed, Power, Generator RPM, Blade Pitch Angle.
 * ANN with 2 hidden layers (12,12), a batch size of 144 and ReLu as activation func.
 * Confusion matrix showing a high accurancy for both models.
@@ -20,6 +21,8 @@
 
 
 # [Regression - KNN regressor surrogate load model for Blade Flapwise Moment.](https://github.com/GonMazzini/Reliability-Analysis)
+* inputs: Wind Speed, Turbulence and Shear.
+* Data set from "wind2loads" model (DTU)
 * KNN model with Cross-Validation (5 folds) in order to find the optimum value of K.
 * With the model output, a Python implementation for First Order Reliability Method (FORM) and Monte Carlo as well.
 
