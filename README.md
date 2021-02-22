@@ -1,8 +1,7 @@
 #### https://github.com/GonMazzini contains many of my repositories regarding Machine Learning, Optimization problems, Wind Loads and Reliability analysis.
 
-# This Portfolio contains a brief overview of some Machine Learning models regarding Wind Energy.
+# This Portfolio contains a brief overview of some Machine Learning models related Wind Energy.
 
-## Machine Learning projects related to Wind Energy.
 
 
 ### [Classification: Random Forest and ANN models in order to predict the status of the WTG.](https://github.com/GonMazzini/EDP-data)
