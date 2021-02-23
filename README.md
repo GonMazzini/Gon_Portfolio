@@ -1,4 +1,5 @@
-#### https://github.com/GonMazzini <- many of my repositories regarding Machine Learning, Optimization problems, Wind Loads and Reliability analysis can be seen in )
+#### https://github.com/GonMazzini 
+#### above link contains many of my repositories regarding Machine Learning, Optimization problems, Wind Loads and Reliability analysis can be seen in )
 
 # This Portfolio contains a brief overview of some Machine Learning models related to Wind Energy.
 
