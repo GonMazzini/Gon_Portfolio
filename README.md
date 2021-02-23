@@ -5,7 +5,7 @@
 
 
 ### [Classification: Random Forest and ANN models in order to predict the status of the WTG.](https://github.com/GonMazzini/EDP-data)
-* Data set from EDP.
+* Data set from EDP (portuguese energy company).
 * SCADA data from Wind Turbine Generators (WTG).
 * inputs for the model: Wind Speed, Power, Generator RPM, Blade Pitch Angle.
 * ANN with 2 hidden layers (12,12), a batch size of 144 and ReLu as activation func.
