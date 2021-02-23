@@ -18,8 +18,7 @@
 * Unsupervised learning problem.
 * Data set from EDP (portuguese energy company).
 * SCADA data from Wind Turbine Generators (WTG).
-* K-mean clustering algorithm
-* Gaussian Mixture (GM) model
+* K-mean clustering algorithm and Gaussian Mixture (GM) model
 ![image](images/clustering%20gaussian.png)
 
 
