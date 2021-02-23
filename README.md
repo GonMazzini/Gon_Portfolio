@@ -14,9 +14,12 @@
 ![image](images/clasification.png)
 
 
-### Clustering: Using the K-mean clustering algorithm and Gaussian Mixture (GM) model to classify the points in the Power Curve.
+### Clustering the points in a WTG Power Curve.
 * Unsupervised learning problem.
-* K-mean clustering exhibits a more reasonable clutering.
+* Data set from EDP (portuguese energy company).
+* SCADA data from Wind Turbine Generators (WTG).
+* K-mean clustering algorithm
+* Gaussian Mixture (GM) model
 ![image](images/clustering%20gaussian.png)
 
 
